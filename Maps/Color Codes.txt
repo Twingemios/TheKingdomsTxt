@@ -1,0 +1,22 @@
+Black = Cannot go here
+
+Orange = Entrance/Exit
+
+Green = Checkpoint
+
+Red = Enemy Spawns
+
+White = Empty
+
+Dark Red = Boss
+
+
+No Movement = [0000]
+Up Only = [1000]
+Down Only = [0100] 
+Left Only = [0010]
+Right Only = [0001]
+
+Each Tile's Properties
+[Where you can move from current tile]
+
